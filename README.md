@@ -13,6 +13,7 @@
 |-------------|----------|
 | 📄 [AI Engineer for Data Scientists Associate](./AIEDA0019310525785.pdf) | DataCamp |
 | 📄 [AWS Course Completion](./AWS%20Course%20Completion%20Certificate.pdf) | AWS |
+| 📄 [Advanced Testing Practices Using DevOps Tools](./Advanced%20DEVops%20tools.pdf) | AWS |
 | 📄 [Azure Basics](./Azure%20Basics.pdf) | DataCamp |
 | 📄 [Data Analytics in Python](./Data%20Analytics%20in%20Python.pdf) | DataCamp |
 | 📄 [Developing AI Systems with OpenAI](./Developing%20AI%20Systems%20with%20OpenAI.pdf) | DataCamp |
