@@ -14,6 +14,7 @@
 | 📄 [AI Engineer for Data Scientists Associate](./AIEDA0019310525785.pdf) | DataCamp |
 | 📄 [AWS Course Completion](./AWS%20Course%20Completion%20Certificate.pdf) | AWS |
 | 📄 [Advanced Testing Practices Using DevOps Tools](./Advanced%20DEVops%20tools.pdf) | AWS |
+| 📄 [Google Cloud Engineering Certificate](https://www.credly.com/badges/e45b2232-f4fc-486a-b35b-3d3bd8ee3e06/public_url) | Google Cloud |
 | 📄 [Azure Basics](./Azure%20Basics.pdf) | DataCamp |
 | 📄 [Data Analytics in Python](./Data%20Analytics%20in%20Python.pdf) | DataCamp |
 | 📄 [Developing AI Systems with OpenAI](./Developing%20AI%20Systems%20with%20OpenAI.pdf) | DataCamp |
